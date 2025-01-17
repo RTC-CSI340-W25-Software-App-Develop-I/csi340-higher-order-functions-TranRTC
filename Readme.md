@@ -18,6 +18,7 @@ Higher-order functions are a huge part of developing with JavaScript. In this la
 In JavaScript, functions are values that can be assigned to variables. Because of this, we can pass functions as parameters to other functions.
 
 - Callback Function: A function passed as an argument to another function is called a callback function.
+
 - Higher-Order Function: A function that receives a function as an argument and/or returns a function is called a higher-order function.
 
 ```
