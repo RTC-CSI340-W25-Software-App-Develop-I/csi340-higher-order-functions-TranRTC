@@ -5,7 +5,7 @@
 
 
 const callback = () => {
-  console.log("Callback function");
+  console.log("Callback Function");
 
 };
 
